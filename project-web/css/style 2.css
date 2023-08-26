@@ -1,0 +1,29 @@
+body{
+    border: 10PX solid red;
+    padding: 10PX;
+}
+.a1{
+    background-image: url(../img/2.jpg);
+    height: 500PX;
+    background-color: blue;
+    background-repeat:  repeat-x;
+    margin-left: 200PX;
+}
+.a1 h1{
+    float:right;
+    margin-top: 50%;
+}
+aside{
+    background-color: burlywood;
+    height: 800PX;
+    width: 200px;
+    float: left;        
+}
+aside{
+    display: inline-block;
+}
+
+article{
+    padding: 10PX;
+    margin: 20PX;
+}
