@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(100, 117, 114);
+}
+
+
+section{
+    height: 300px;
+    border: 5px 5px 5px 5px;
+    background-color: aliceblue;
+}
+article{
+    background-color: aliceblue;
+}
+p{
+    background-color: yellow;
+    color: red;
+}
+iframe{
+    margin: 20px;
+    padding: 0px;
+}
+table{
+    background-color: aqua;
+}

@@ -1,0 +1,17 @@
+div{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(240, 246, 248);
+    margin: 20px;
+    display: inline-block;
+    box-shadow: 10px;
+    scrollbar-shadow-color: red;
+}
+img{
+    width: 310px;
+    height: 300px;
+    margin: 20px;
+}
+p{
+    text-align: center;
+}
