@@ -1,0 +1,71 @@
+
+video{
+    width: 90%;
+    height: 90%;
+}
+ul li a{
+    text-decoration: none;
+    padding: 4px;
+    color: white;
+}
+li{
+    list-style: none;
+    display: inline-block;
+   
+   margin-left:5rem ;
+   border: 1cap solid black;
+   border-radius: 10px;
+   padding: 2px;
+   margin-top: 3px;
+}
+body{
+  padding: 50px;
+  margin: 100px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+    border: 7px dotted brown;
+}
+article p{
+    background-color: green;
+}
+article{
+    color: red;
+
+}
